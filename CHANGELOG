@@ -1,0 +1,24 @@
+/* kalitorify CHANGELOG */
+
+```
+Format:
+
+/** version number / date **/
+
+[ committer ] username
+
+arguments
+
+```
+
+/** 1.24.0 / 2020-10-03 **/
+
+[ committer ] brainfucksec
+
+Clean CHANGELOG file, please see `CHANGELOG.old` file for old changes.
+
+IMPORTANT:
+
+Only changes that are important to users will be written to this file.
+Please see git `/commits/master` for technical details of the program changes.
+
